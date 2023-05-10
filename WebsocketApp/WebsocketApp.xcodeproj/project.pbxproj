@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6CA4A1142A0C275300967F07 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CA4A1132A0C275300967F07 /* Message.swift */; };
+		6CA4A1162A0C276800967F07 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CA4A1152A0C276800967F07 /* User.swift */; };
+		6CA4A1182A0C27B700967F07 /* Communication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CA4A1172A0C27B700967F07 /* Communication.swift */; };
 		6CEDD4272A0BDE27003D56E1 /* WebsocketAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CEDD4262A0BDE27003D56E1 /* WebsocketAppApp.swift */; };
 		6CEDD4292A0BDE27003D56E1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CEDD4282A0BDE27003D56E1 /* ContentView.swift */; };
 		6CEDD42B2A0BDE29003D56E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CEDD42A2A0BDE29003D56E1 /* Assets.xcassets */; };
@@ -36,6 +39,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6CA4A1132A0C275300967F07 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		6CA4A1152A0C276800967F07 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		6CA4A1172A0C27B700967F07 /* Communication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Communication.swift; sourceTree = "<group>"; };
 		6CEDD4232A0BDE27003D56E1 /* WebsocketApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebsocketApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CEDD4262A0BDE27003D56E1 /* WebsocketAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsocketAppApp.swift; sourceTree = "<group>"; };
 		6CEDD4282A0BDE27003D56E1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -104,6 +110,9 @@
 				6CEDD42F2A0BDE29003D56E1 /* Persistence.swift */,
 				6CEDD4312A0BDE29003D56E1 /* WebsocketApp.xcdatamodeld */,
 				6CEDD42C2A0BDE29003D56E1 /* Preview Content */,
+				6CA4A1132A0C275300967F07 /* Message.swift */,
+				6CA4A1152A0C276800967F07 /* User.swift */,
+				6CA4A1172A0C27B700967F07 /* Communication.swift */,
 			);
 			path = WebsocketApp;
 			sourceTree = "<group>";
@@ -265,7 +274,10 @@
 			files = (
 				6CEDD4302A0BDE29003D56E1 /* Persistence.swift in Sources */,
 				6CEDD4332A0BDE29003D56E1 /* WebsocketApp.xcdatamodeld in Sources */,
+				6CA4A1182A0C27B700967F07 /* Communication.swift in Sources */,
+				6CA4A1142A0C275300967F07 /* Message.swift in Sources */,
 				6CEDD4292A0BDE27003D56E1 /* ContentView.swift in Sources */,
+				6CA4A1162A0C276800967F07 /* User.swift in Sources */,
 				6CEDD4272A0BDE27003D56E1 /* WebsocketAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

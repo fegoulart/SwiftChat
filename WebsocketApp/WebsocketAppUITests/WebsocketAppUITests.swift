@@ -1,11 +1,3 @@
-//
-//  WebsocketAppUITests.swift
-//  WebsocketAppUITests
-//
-//  Copyright © 2023 Alelo. All rights reserved.
-//
-
-
 import XCTest
 
 final class WebsocketAppUITests: XCTestCase {

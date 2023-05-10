@@ -1,11 +1,3 @@
-//
-//  WebsocketAppTests.swift
-//  WebsocketAppTests
-//
-//  Copyright © 2023 Alelo. All rights reserved.
-//
-
-
 import XCTest
 @testable import WebsocketApp
 

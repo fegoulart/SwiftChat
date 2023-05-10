@@ -1,11 +1,3 @@
-//
-//  Persistence.swift
-//  WebsocketApp
-//
-//  Copyright © 2023 Alelo. All rights reserved.
-//
-
-
 import CoreData
 
 struct PersistenceController {

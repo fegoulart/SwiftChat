@@ -1,11 +1,3 @@
-//
-//  ContentView.swift
-//  WebsocketApp
-//
-//  Copyright © 2023 Alelo. All rights reserved.
-//
-
-
 import SwiftUI
 import CoreData
 
